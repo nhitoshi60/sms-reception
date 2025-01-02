@@ -1,4 +1,4 @@
-# 2024 年推荐的短信接码平台(收费+免费、国内+国外,建议收藏！！！)
+# 2025 年推荐的短信接码平台(收费+免费、国内+国外,建议收藏！！！)
 
 ## 一、前言
 
@@ -8,7 +8,7 @@
 
 ### sms-activate
 
-博主一直在用的一个接码平台是来自俄罗斯的 [sms-activate](https://sms-activate.org/?ref=10195922)。相比其他平台，sms-activate 的优势包括：
+博主一直在用的一个接码平台是来自俄罗斯的 [sms-activate](https://sms-activate.guru/?ref=10195922)。相比其他平台，sms-activate 的优势包括：
 
 1. 支持多个国家和地区的电话号码，包括一些不常见的国家和地区。
 2. 提供多种支付方式，包括支付宝、虚拟货币和信用卡支付。
@@ -16,7 +16,7 @@
 4. 提供普通号码和专业号码等不同种类的号码。
 5. 20 分钟内未收到验证码，费用自动返还至余额。
 
-官网：[sms-activate.org](https://sms-activate.org/?ref=10195922)
+官网：[sms-activate.org](https://sms-activate.guru/?ref=10195922)
 
 
 ![image](https://github.com/nhitoshi60/sms-reception/assets/169989644/af46ec63-3d1c-48bc-8140-26f34b24cdfc)
